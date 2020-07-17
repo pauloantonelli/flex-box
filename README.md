@@ -24,6 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Demo
-```
 https://flex-box-vue.netlify.app/
-```
